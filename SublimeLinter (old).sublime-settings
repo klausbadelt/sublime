@@ -1,0 +1,19 @@
+{
+	"user":
+	{
+		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Blueberry/cross/Blueberry - cross.gutter-theme",
+		"linters":
+		{
+			"rubocop":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		}
+	}
+}

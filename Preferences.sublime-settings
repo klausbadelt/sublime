@@ -1,0 +1,41 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.log",
+		"tmp/*",
+		"node_modules/*"
+	],
+	"color_scheme": "Packages/Monokai JSON+/Monokai JSON+.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Makefile",
+		"Markdown",
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"tmp/*",
+		"node_modules/*"
+	],
+	"scroll_past_end": false,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}

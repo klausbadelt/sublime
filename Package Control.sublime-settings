@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Babel",
+		"Better CoffeeScript",
+		"ChangeQuotes",
+		"Click To Partial",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"GitHubinator",
+		"HTML-CSS-JS Prettify",
+		"JSONLint",
+		"LoremGibson",
+		"Makefile Plus",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Minifier",
+		"Monokai JSON+",
+		"Package Control",
+		"Pretty JSON",
+		"rainbow_csv",
+		"Ruby Completions",
+		"RubyTest",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-standard",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
+		"Vue Syntax Highlight",
+		"YAML Nav"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Monokai JSON+/Monokai JSON+.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"trim_trailing_white_space_on_save": true
+}
