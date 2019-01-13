@@ -1,4 +1,4 @@
 {
-	"last_test_run": "ruby -c titles_controller_test.rb",
+	"last_test_run": "ruby -Itest test/services/transcode_spec/audio_map_test.rb -n 'test_single_stream_5.1_with_correct_labels'",
 	"last_test_working_dir": "/Users/kb/src/filmhub"
 }

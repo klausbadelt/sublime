@@ -15,11 +15,24 @@
 		"*.jar",
 		"*.zip",
 		"*.log",
-		"tmp/*",
-		"node_modules/*"
+		"*.mov",
+		"*.mp4"
 	],
-	"color_scheme": "Packages/Monokai JSON+/Monokai JSON+.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"coverage",
+		"tmp",
+		"public/*",
+		"log"
+	],
+  "font_face": "Menlo",
 	"font_size": 12,
+	"font_options": ["gray_antialias"],
 	"ignored_packages":
 	[
 		"Makefile",
@@ -30,8 +43,12 @@
 	[
 		"*.log",
 		"tmp/*",
-		"node_modules/*"
+		"node_modules/*",
+		"_site/*",
+		"public/assets/*",
+		"public/packs*"
 	],
+	"index_workers": 8,
 	"scroll_past_end": false,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
