@@ -21,7 +21,7 @@
 		"_site/*",
 		"*.scssc"
 	],
-	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -59,7 +59,7 @@
 	"index_workers": 8,
 	"scroll_past_end": false,
 	"tab_size": 2,
-	"theme": "Seti_orig.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "true"
