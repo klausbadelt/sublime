@@ -21,7 +21,7 @@
 		"_site/*",
 		"*.scssc"
 	],
-	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -32,7 +32,6 @@
 		"tmp",
 		"public/*",
 		"_site/*",
-		"node_modules",
 		"log"
 	],
 	"font_face": "Bitstream Vera Sans Pro",
@@ -43,6 +42,7 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"Javascript",
 		"Makefile",
 		"Markdown",
 		"Vintage"
@@ -57,10 +57,11 @@
 		"public/packs*"
 	],
 	"index_workers": 8,
+	"mini_diff": true,
 	"scroll_past_end": false,
 	"tab_size": 2,
 	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true"
+	"word_wrap": true
 }

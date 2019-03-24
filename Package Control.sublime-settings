@@ -8,16 +8,17 @@
 		"Advanced CSV",
 		"Babel",
 		"Better CoffeeScript",
+		"BlackBird-ColorScheme",
 		"BracketHighlighter",
 		"ChangeQuotes",
 		"Click To Partial",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
+		"Dracula Color Scheme",
 		"ERB Snippets",
 		"ESLint",
 		"ESLint-Formatter",
 		"Git",
-		"GitGutter",
 		"GitHubinator",
 		"Hide Menu",
 		"HTML-CSS-JS Prettify",
@@ -34,6 +35,7 @@
 		"MarkdownPreview",
 		"Minifier",
 		"Monokai JSON+",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Pretty JSON",
 		"rainbow_csv",
@@ -47,7 +49,7 @@
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-contrib-standard",
 		"SublimeLinter-ruby",
-		"Vue Syntax Highlight",
-		"YAML Nav"
+		"TOML",
+		"Vue Syntax Highlight"
 	]
 }
