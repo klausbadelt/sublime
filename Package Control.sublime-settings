@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Advanced CSV",
 		"Babel",
 		"Better CoffeeScript",
@@ -33,6 +34,7 @@
 		"MarkdownEditing",
 		"MarkdownLivePreview",
 		"MarkdownPreview",
+		"Material Theme",
 		"Minifier",
 		"Monokai JSON+",
 		"Oceanic Next Color Scheme",
