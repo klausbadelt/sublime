@@ -1,8 +1,11 @@
 {
 	"Seti_ClosedFolder_same": false,
+	"Seti_pad_3": true,
+	"Seti_panel_nrml": true,
 	"Seti_sb_small_padding": true,
 	"Seti_tabs_small": true,
 	"Seti_use_system_title_bar": false,
+	"Seti_yellow_tab": true,
 	"binary_file_patterns":
 	[
 		"*.jpg",
@@ -18,10 +21,14 @@
 		"*.swf",
 		"*.jar",
 		"*.zip",
+		"client/build/*",
+		"client/node_modules*/*",
+		"node_modules*/*",
 		"_site/*",
 		"*.scssc"
 	],
-	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -37,7 +44,8 @@
 	"font_face": "Bitstream Vera Sans Pro",
 	"font_options":
 	[
-		"dlig"
+		"gray_antialias",
+		"subpixel_antialias"
 	],
 	"font_size": 12,
 	"ignored_packages":
@@ -47,6 +55,11 @@
 		"Markdown",
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"index_exclude_patterns":
 	[
 		"*.log",
@@ -54,13 +67,30 @@
 		"node_modules/*",
 		"_site/*",
 		"public/assets/*",
-		"public/packs*"
+		"public/packs*",
+		"client/build/*"
 	],
 	"index_workers": 8,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"material_theme_big_fileicons": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_titlebar": true,
 	"mini_diff": true,
-	"scroll_past_end": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"scroll_past_end": true,
+	"show_git_status": true,
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
