@@ -6,25 +6,19 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"Advanced CSV",
 		"Babel",
 		"Better CoffeeScript",
-		"BlackBird-ColorScheme",
 		"BracketHighlighter",
 		"ChangeQuotes",
-		"Click To Partial",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
-		"Dracula Color Scheme",
 		"ERB Snippets",
-		"ESLint",
-		"ESLint-Formatter",
 		"Git",
 		"GitHubinator",
-		"Hide Menu",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"JavaScript Next Snippets",
+		"JSCustom",
 		"JSON Key-Value",
 		"JSONLint",
 		"JSX",
@@ -41,6 +35,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"rainbow_csv",
+		"Ruby Block Converter",
 		"Ruby Completions",
 		"RubyTest",
 		"Sass",
@@ -49,10 +44,13 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-contrib-standard",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
-		"TOML",
-		"Vue Syntax Highlight"
+		"TOML"
 	]
 }

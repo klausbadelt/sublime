@@ -21,11 +21,14 @@
 		"*.swf",
 		"*.jar",
 		"*.zip",
+		"client/build/*",
+		"client/node_modules*/*",
+		"node_modules*/*",
 		"_site/*",
 		"*.scssc"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -64,7 +67,8 @@
 		"node_modules/*",
 		"_site/*",
 		"public/assets/*",
-		"public/packs*"
+		"public/packs*",
+		"client/build/*"
 	],
 	"index_workers": 8,
 	"line_padding_bottom": 2,
@@ -79,10 +83,14 @@
 	"material_theme_titlebar": true,
 	"mini_diff": true,
 	"overlay_scroll_bars": "enabled",
-	"scroll_past_end": false,
+	"rulers":
+	[
+		120
+	],
+	"scroll_past_end": true,
 	"show_git_status": true,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
