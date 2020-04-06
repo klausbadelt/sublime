@@ -3,4 +3,9 @@
   "lint_mode": "background",
   "no_column_highlights_line": false,
   "highlights.demote_while_editing": "ws_only",
+  "linters": {
+    "markdownlint": {
+      "executable": "${folder}/node_modules/.bin/markdownlint"
+    }
+  }
 }
