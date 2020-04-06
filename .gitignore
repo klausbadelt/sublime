@@ -3,3 +3,5 @@ Package Control.last-run
 Package Control.merged-ca-bundle
 MarkdownPreview.sublime-settings
 oscrypto-ca-bundle.crt
+*.bak
+*.last-run
